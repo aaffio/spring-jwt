@@ -21,7 +21,7 @@ mvn clean package -DskipTests
 mvn test
 ```
 
-###how to get bearer
+### How to get bearer
 ```bash
 /api/authenticate?username=username&password=password
 ```
